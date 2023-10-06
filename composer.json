@@ -16,6 +16,11 @@
             "Derteaser\\StatamicBladeIcons\\": "src"
         }
     },
+    "config": {
+        "allow-plugins": {
+            "pixelfear/composer-dist-plugin": true
+        }
+    },
     "extra": {
         "statamic": {
             "name": "Statamic Blade Icons",
