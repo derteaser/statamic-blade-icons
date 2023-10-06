@@ -1,13 +1,13 @@
 {
   "resources/js/blade-icon-picker.css": {
-    "file": "assets/blade-icon-picker-37a625c2.css",
+    "file": "assets/blade-icon-picker-522453d0.css",
     "src": "resources/js/blade-icon-picker.css"
   },
   "resources/js/blade-icon-picker.js": {
     "css": [
-      "assets/blade-icon-picker-37a625c2.css"
+      "assets/blade-icon-picker-522453d0.css"
     ],
-    "file": "assets/blade-icon-picker-acf63161.js",
+    "file": "assets/blade-icon-picker-476ddee5.js",
     "isEntry": true,
     "src": "resources/js/blade-icon-picker.js"
   }
