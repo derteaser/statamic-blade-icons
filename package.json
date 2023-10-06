@@ -9,6 +9,6 @@
         "cross-env": "^7.0",
         "laravel-vite-plugin": "^0.8.0",
         "vite": "^4.1.4",
-        "vue": "^2.6.11"
+        "vue": "^3.0.0"
     }
 }
