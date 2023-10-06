@@ -1,0 +1,24 @@
+{
+    "name": "derteaser/statamic-blade-icons",
+    "require": {
+        "blade-ui-kit/blade-icons": "1.5.2",
+        "codeat3/blade-simple-icons": "1.89.0",
+        "mallardduck/blade-lucide-icons": "1.11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Derteaser\\StatamicBladeIcons\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Statamic Blade Icons",
+            "description": "Statamic Blade Icons addon"
+        },
+        "laravel": {
+            "providers": [
+                "Derteaser\\StatamicBladeIcons\\ServiceProvider"
+            ]
+        }
+    }
+}
