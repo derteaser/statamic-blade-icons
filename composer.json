@@ -3,7 +3,7 @@
     "type": "statamic-addon",
     "description": "An addon that adds a field type and a tag to use Blade Icons in your Statamic projects.",
     "require": {
-        "blade-ui-kit/blade-icons": "1.5.2",
+        "blade-ui-kit/blade-icons": "1.5.3",
         "codeat3/blade-simple-icons": "1.91.0",
         "mallardduck/blade-lucide-icons": "1.11.0"
     },
