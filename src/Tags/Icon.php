@@ -60,24 +60,6 @@ class Icon extends Tags {
     }
 
     /**
-     * The {{ icon:lucide }} tag.
-     *
-     * @return string
-     */
-    public function lucide(): string {
-        return $this->render('lucide');
-    }
-
-    /**
-     * The {{ icon:si }} tag.
-     *
-     * @return string
-     */
-    public function si(): string {
-        return $this->render('si');
-    }
-
-    /**
      * The {{ icon:by_url }} tag.
      *
      * @return string
