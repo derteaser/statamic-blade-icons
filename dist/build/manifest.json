@@ -1,10 +1,11 @@
 {
   "resources/js/blade-icon-picker.js": {
-    "css": [
-      "assets/blade-icon-picker-Z2MhCIE2.css"
-    ],
-    "file": "assets/blade-icon-picker-UXjXVzBB.js",
+    "file": "assets/blade-icon-picker-C5N_TJ7a.js",
+    "name": "blade-icon-picker",
+    "src": "resources/js/blade-icon-picker.js",
     "isEntry": true,
-    "src": "resources/js/blade-icon-picker.js"
+    "css": [
+      "assets/blade-icon-picker-B_QQgGCH.css"
+    ]
   }
 }
