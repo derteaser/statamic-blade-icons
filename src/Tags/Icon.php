@@ -29,7 +29,7 @@ class Icon extends Tags {
         }
     }
 
-    private function render(string $provider = null, string $icon = null): string {
+    private function render(?string $provider = null, ?string $icon = null): string {
         $provider = $provider ?? Str::lower($this->params->get('provider'));
         $icon = $icon ?? Str::lower($this->params->get('icon'));
 
