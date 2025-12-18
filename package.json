@@ -9,7 +9,7 @@
         "@vitejs/plugin-vue2": "2.3.4",
         "eslint": "8.57.1",
         "laravel-vite-plugin": "2.0.1",
-        "vite": "7.2.7",
+        "vite": "7.3.0",
         "vue": "2.7.16"
     }
 }
