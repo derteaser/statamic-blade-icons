@@ -1,7 +1,7 @@
 {
     "name": "derteaser/statamic-blade-icons",
     "type": "statamic-addon",
-    "description": "An addon that adds a field type and a tag to use Blade Icons in your Statamic projects.",
+    "description": "An addon that adds a tag to use Blade Icons in your Statamic projects.",
     "require": {
         "blade-ui-kit/blade-icons": "^1.5.3"
     },
