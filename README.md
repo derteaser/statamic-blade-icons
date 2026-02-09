@@ -10,8 +10,8 @@ A Statamic addon that adds a simple `{{ icon }}` tag for rendering [Blade Icons]
 
 ## Requirements
 
-- PHP 8.1+
-- Statamic 4, 5, or 6
+- PHP 8.3+
+- Statamic 5 or 6
 - `blade-ui-kit/blade-icons`
 
 ## Installation
